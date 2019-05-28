@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://admin:Administrador2019@ds131765.mlab.com:31765/tododb
